@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FavoritProvider</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="description">description</string>
+    <string name="star">star</string>
+    <string name="poster">poster</string>
+
+</resources>
